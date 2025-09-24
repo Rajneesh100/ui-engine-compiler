@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+tried to build a json based language for frontend, you can specify entire application on single json file with all possible api endpoint,
+but it turns out tobe a night mare but very interesting one while doing so...
+i realised i was making a freaking another framework for frontend with all state and memory management and a compiler to convert this json to executable code...
+then i stopped here...
 
 ## Getting Started
 
